@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("POOFinalTechRAO")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+16ec847e0fa2fc49806316933bdb5669db6555d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bb3cfdb709207f2bbb3702f2b9c317e2c4469cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("POOFinalTechRAO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("POOFinalTechRAO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
